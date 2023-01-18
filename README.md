@@ -9,7 +9,7 @@
 
 - 로그 데이터 수집을 위한 ETL 파이프라인 구축    <a href="https://github.com/orange-hour/ETL_pipeline/tree/master/myproject">[🔗 프로젝트 소개]</a>
 - Django Rest Framework 기반 REST API 구축   <a href="https://github.com/orange-hour/ETL_pipeline/">[🔗 프로젝트 소개]</a>
-- Selenium을 이용한 데이터 직군 채용공고 DB 구축   <a href="https://github.com/orange-hour/projects/tree/main/scraping_pipeline">[🔗 프로젝트 소개]</a>
+- Selenium을 이용한 데이터 직군 채용공고 DB 구축   <a href="https://github.com/orange-hour/scraping_JDs_pipeline">[🔗 프로젝트 소개]</a>
 
 *링크는 프로젝트에 대한 상세한 설명이 포함된 GitHub repository로 연결됩니다.
 
