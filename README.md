@@ -1,6 +1,6 @@
 
 
-## Sukwon Hong, Data Engineer 👩🏻‍💻
+## Tiffany Hong, Data Engineer 👩🏻‍💻
 
 - Driven to create business impact through data-informed solutions. <br>
 - Experience spans marketing, product management, and building data pipelines to improve customer experiences. <br>
